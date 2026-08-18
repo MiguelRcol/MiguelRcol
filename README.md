@@ -39,6 +39,7 @@ Front-end leaning full-stack developer, based in Medellín, Colombia — buildin
 
 <div align="center">
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelRcol&show_icons=true&hide_title=true&hide_border=true&theme=default)
+![Followers](https://img.shields.io/github/followers/MiguelRcol?style=flat-square&label=Followers&color=181717)
+![Profile views](https://komarev.com/ghpvc/?username=MiguelRcol&style=flat-square&color=181717&label=Profile+views)
 
 </div>
