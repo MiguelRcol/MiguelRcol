@@ -2,7 +2,7 @@
 
 # Hi, I'm Miguel 👋
 
-Front-end leaning full-stack developer, based in Bogotá, Colombia — building my way through **The Odin Project** curriculum and shipping small, complete projects along the way.
+Front-end leaning full-stack developer, based in Medellín, Colombia — building my way through **The Odin Project** curriculum and shipping small, complete projects along the way.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://miguelrcol.github.io/homepage/)
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miguelruaruiz@gmail.com)
