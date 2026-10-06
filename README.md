@@ -2,7 +2,7 @@
 
 # Hi, I'm Miguel 👋
 
-Front-end leaning full-stack developer, based in Medellín, Colombia — building my way through **The Odin Project** curriculum and shipping small, complete projects along the way.
+Software engineering student in Medellín, Colombia, preparing for junior full-stack opportunities. I build web applications with **JavaScript, TypeScript, React, Node.js, Express, and relational databases**, following The Odin Project and documenting the decisions behind each project.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://miguelrcol.github.io/homepage/)
 [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miguelruaruiz@gmail.com)
@@ -11,35 +11,30 @@ Front-end leaning full-stack developer, based in Medellín, Colombia — buildin
 
 ---
 
-### 🚀 Featured projects
+### Selected projects
 
-| Project | Description | Stack |
+| Project | What the repository demonstrates | Try it |
 | --- | --- | --- |
-| **[STRIDE Shopping Cart](https://github.com/MiguelRcol/Shopping-cart)** ([demo](https://stride-shopping.netlify.app/)) | Bilingual (ES/EN) sports e-commerce demo — catalog, cart and checkout flow | React · TypeScript · Vite |
-| **[CV Studio](https://github.com/MiguelRcol/cv-studio)** ([demo](https://miguelrcol.github.io/cv-studio/)) | Résumé builder with live preview | React · TypeScript · Vite |
-| **[Memory Card](https://github.com/MiguelRcol/memory-card)** ([demo](https://miguelrcol.github.io/memory-card/)) | League of Legends champion memory game using the Riot Data Dragon API | React · TypeScript |
-| **[Battleship](https://github.com/MiguelRcol/battleship)** ([demo](https://miguelrcol.github.io/battleship/)) | Classic Battleship, built test-first | JavaScript · Jest (TDD) |
-| **[Weather App](https://github.com/MiguelRcol/Weather-app)** ([demo](https://miguelrcol.github.io/Weather-app/)) | Live forecasts from a public weather API | JavaScript |
-| **[TextAnalyzer](https://github.com/MiguelRcol/TextAnalyzer)** | CLI tool that lexically analyzes text files with a hash table written from scratch | C |
+| **[Stow · File Uploader](https://github.com/MiguelRcol/file-uploader)** | Express + TypeScript + Prisma/SQLite. Private uploads, nested folders, expiring shares, ownership checks, storage quotas, and integration/browser tests. | [Local setup](https://github.com/MiguelRcol/file-uploader#run-locally); public backend deployment pending. |
+| **[Odinbook](https://github.com/MiguelRcol/odinbook)** | Express + Passport + Prisma/PostgreSQL. Follow requests, feeds, posts, likes, comments, cookie sessions, and database/browser tests. | [Browser-only sandbox](https://miguelrcol.github.io/odinbook/); the real backend runs locally. |
+| **[STRIDE · Shopping Cart](https://github.com/MiguelRcol/Shopping-cart)** | React + TypeScript. Routing, cart state, local persistence, ES/EN, and interaction tests. Frontend demo with no payment processing. | [Live frontend](https://stride-shopping.netlify.app/) |
+| **[CV Studio](https://github.com/MiguelRcol/cv-studio)** | React + TypeScript. Controlled forms, separate draft/saved state, validation, accessible feedback, print styles, tests, and CI. | [Live frontend](https://miguelrcol.github.io/cv-studio/) |
+| **[Fieldnotes · Blog API](https://github.com/MiguelRcol/blog-api)** | Express + Prisma/SQLite + JWT. Independent reader and author clients, private drafts, ownership, publication controls, and API/browser tests. | [Browser-only demo](https://miguelrcol.github.io/blog-api/); the real backend runs locally. |
+| **[Relay Messenger](https://github.com/MiguelRcol/relay-messenger)** | Express + SQLite. Private/group conversations, session cookies, membership checks, pagination, and integration tests. Message delivery uses polling. | [Local setup](https://github.com/MiguelRcol/relay-messenger#run-locally); public backend deployment pending. |
 
----
+The full-stack repositories include setup instructions and their deployment requirements. The two GitHub Pages sandboxes use browser storage and simulated data; they do not host the Express APIs or databases.
 
-### 🛠️ Tech I work with
+### More work
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- [Atmos · Weather App](https://github.com/MiguelRcol/Weather-app) — API requests, loading/error handling, ES/EN, units, and tests.
+- [Field Notes · Where's Waldo](https://github.com/MiguelRcol/wheres-waldo) — Node.js/SQLite, server-verified coordinates and timing, ownership, and browser tests.
+- [Battleship](https://github.com/MiguelRcol/battleship) — JavaScript domain logic developed with Jest and TDD.
+- [FocusBoard · Todo List](https://github.com/MiguelRcol/todo-list) — JavaScript modules, task/project models, and local persistence.
+- [Champion Memory](https://github.com/MiguelRcol/memory-card) — React/TypeScript and Riot Data Dragon.
 
----
+### Technical focus
 
-<div align="center">
+React · TypeScript · JavaScript · Node.js · Express · SQL · PostgreSQL · SQLite · Prisma · Git
 
-![Followers](https://img.shields.io/github/followers/MiguelRcol?style=flat-square&label=Followers&color=181717)
-![Profile views](https://komarev.com/ghpvc/?username=MiguelRcol&style=flat-square&color=181717&label=Profile+views)
+I practice explaining authentication versus authorization, data ownership, relational constraints, state management, testing failure paths, and the limits of a deployment.
 
-</div>
